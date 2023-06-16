@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GioMaglakelidze/goit-react-hw-04-phonebook/static/css/main.2e96e77b.css",
+    "main.js": "/GioMaglakelidze/goit-react-hw-04-phonebook/static/js/main.65d204ae.js",
+    "index.html": "/GioMaglakelidze/goit-react-hw-04-phonebook/index.html",
+    "main.2e96e77b.css.map": "/GioMaglakelidze/goit-react-hw-04-phonebook/static/css/main.2e96e77b.css.map",
+    "main.65d204ae.js.map": "/GioMaglakelidze/goit-react-hw-04-phonebook/static/js/main.65d204ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e96e77b.css",
+    "static/js/main.65d204ae.js"
+  ]
+}
